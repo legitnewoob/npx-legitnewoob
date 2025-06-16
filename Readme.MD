@@ -17,22 +17,13 @@
 
 ## 🛠️ Usage
 
-### ▶️ Run directly using NPX (no installation needed)
+### ▶️ Run directly using NPX 
 
 ```bash
 npx legitnewoob
 ```
 
 This will fetch and run the card instantly from the registry.
-
-### 💾 Or install globally with NPM
-
-```bash
-npm install -g legitnewoob
-legitnewoob
-```
-
-This allows you to run it any time from the terminal.
 
 ---
 
